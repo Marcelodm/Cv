@@ -1,2 +1,2 @@
 # MiPortfolio
-https://marcelodm.github.io/index/
+https://marcelodm.github.io/cv/
